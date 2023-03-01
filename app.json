@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tarea-7",
+    "slug": "tarea-7",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
